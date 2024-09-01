@@ -33,7 +33,7 @@ Visiting a doctor requires reserving an appointment, waiting for your turn and t
 Clone the repo
 
 ```bash
-  git clone https://github.com/PrinceEGY/Clinicky.git
+  git clone https://github.com/Ahmed7elmy99/Clinicky.git
 ```
 
 Install the dependencies
