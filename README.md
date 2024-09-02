@@ -2,7 +2,8 @@
 
 ## General Info  
 Visiting a doctor requires reserving an appointment, waiting for your turn and this can be a waste of time and needs kind of effort, This app will help both the doctor and the patient by simplifying the process of scheduling, tracking, and organizing appointments.
-
+## Video of project
+https://github.com/user-attachments/assets/2aed7eda-66eb-4df4-abd9-b2c5bd141740
 ## Features
 #### As a Doctor 
 - Adding clinics and specifying working days & time.
